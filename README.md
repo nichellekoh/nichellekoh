@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Icons from: https://simpleicons.org/
 -->
 
 
@@ -30,14 +32,16 @@ In my role, I assist the team in enhancing client experience and optimizing onbo
 
 ### Development Framework & Tools
 <p>
-<img alt="Angular" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
-<img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="25" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25" />
-<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="25" />
-<img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="25" />
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25" />
-<img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=Spring&logoColor=white" height="25"/>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
+<img alt="Cypress" src="https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=058a5e" height="25" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" />
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25" />
+<img alt="Jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="25" />
+<img alt="JUnit5" src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=jest&logoColor=white" height="25" />
+<img alt="Linear" src="https://img.shields.io/badge/linear-5E6AD2?style=for-the-badge&logo=jest&logoColor=white" height="25" />
+<img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="25" />
+<img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="25" />
+<img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=Spring&logoColor=white" height="25"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" />
 </p>
 
@@ -52,6 +56,7 @@ In my role, I assist the team in enhancing client experience and optimizing onbo
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white" height="25"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jest&logoColor=white" height="25" />
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="25" />
 </p>
 
