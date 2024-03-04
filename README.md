@@ -19,7 +19,7 @@ Icons from: https://simpleicons.org/
 
 ### Hi there 👋
 
-My name is Nichelle! I'm a Senior Software Developer at [Levain](https://levain.tech/)! 👩🏻‍💻
+My name is Nichelle!
 
 In my role, I assist the team in enhancing client experience and optimizing onboarding processes. I develop full-stack solutions to effectively address client needs.
 
