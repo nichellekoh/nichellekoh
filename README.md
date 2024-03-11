@@ -19,7 +19,7 @@ Icons from: https://simpleicons.org/
 
 ### Hi there 👋
 
-My name is Nichelle!
+My name is Nichelle! 🙋‍♀️
 
 In my current role as a Senior Software Engineer, I assist the team in enhancing client experience and optimizing onboarding processes. I develop full-stack solutions to effectively address client needs.
 
